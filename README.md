@@ -20,7 +20,7 @@ pip install -r requirements.txt
    
 python main.py
 
-6. Open http://127.0.0.1:5000 in your browser.
+6. Open  http://192.168.0.200:5000 in your browser.
 
 5.You're done and let's chat with your Robot via browser.
 
